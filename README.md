@@ -1,5 +1,7 @@
 # Boilerplate Marvin Plugin
 
+A boirleplate to create a plugin for [Marvin](https://github.com/marvin-js/marvin).
+
 Create a plugin is very much simple. It is necessary understand [how the syntax works](https://github.com/marvin-js/marvin/blob/master/docs/how-is-syntax.md).
 
 Example of plugin:
