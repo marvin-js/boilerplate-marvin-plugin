@@ -1,0 +1,9 @@
+{
+  "name": "boilerplate-marvin-plugin",
+  "version": "1.0.0",
+  "description": "A boilerplate marvin plugin",
+  "main": "index.js",
+  "repository": "git@github.com:marvin-js/boilerplate-marvin-plugin.git",
+  "author": "Your name <youremail@email.com>",
+  "license": "MIT"
+}
